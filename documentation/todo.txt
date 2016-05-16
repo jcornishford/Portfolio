@@ -1,4 +1,0 @@
-"""This is a list of task to do for "my website"
-
-1. Templates not linking to bootstrap's navigation bar
-2. Picture could be loaded faster
