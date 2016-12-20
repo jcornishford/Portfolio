@@ -1,8 +1,10 @@
 import jinja2
 from flask import Flask, render_template
 import os
+import base64
 
-
+#Obfuscate password
+b64.b64encode('
 # Main class obstantiated
 app = Flask(__name__) 
 app.jinja_loader = jinja2.FileSystemLoader('/home/ubuntu/workspace/work/website/templates')
