@@ -8,7 +8,7 @@ b64.b64encode('
 # Main class obstantiated
 app = Flask(__name__) 
 app.jinja_loader = jinja2.FileSystemLoader('/home/ubuntu/workspace/work/website/templates')
-
+#print hello
 
 #Routes bound to website pages
 @app.route('/') 
